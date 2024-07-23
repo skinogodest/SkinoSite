@@ -1,0 +1,21 @@
+
+
+body{
+background-color: wheat;
+color: white;
+background:linear-gradient(rgb(135, 235, 188),rgb(128, 0, 100));
+
+}
+
+
+h1{
+font-family:cursive;
+    color: rosybrown;
+   border-style:hidden;
+  border-width: 5px;
+
+}
+
+
+
+
